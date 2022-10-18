@@ -331,6 +331,9 @@ header {
 
 .services {
     margin-bottom: 4em;
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
 }
 
 .service {
